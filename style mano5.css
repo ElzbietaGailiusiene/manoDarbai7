@@ -1,0 +1,65 @@
+/* header */
+header h1{
+font-size: x-large;
+color: papayawhip;
+background: rgb(27, 26, 26);
+}
+header span {
+    color:orange
+}
+header h1{
+
+}
+header nav{
+    background: gray;
+}
+header nav ul li a{
+   text-decoration: none;
+   color: white;
+}
+/* header */
+main h3{
+   text-transform: uppercase;
+   list-style-type: upper-alpha;
+}
+main figcaption{
+    color: orange;
+font-style: italic;
+position: left;
+}
+main article p{
+padding-bottom: 0cm;
+line-height: 0.8em;  
+}
+main article span{
+    color: orange;
+    letter-spacing: 0.3em;
+}
+main article a{
+list-style-type: none;
+color: orange;
+text-transform: uppercase;
+}
+
+aside h4{
+background: slategrey;
+text-align: center;
+color: snow;
+text-transform: uppercase;
+letter-spacing: 6mm;
+}
+aside nav ul li a{
+    color: tomato;
+    text-align-last: center;
+    text-decoration-line: none;
+}
+/* footer */
+footer{
+    background: grey;
+}
+footer i{
+    color: hotpink;
+    align-items: center;
+}
+
+
